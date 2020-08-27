@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    list-style-type: none;
+}
+
+.card-nota {
+    margin: 25px 25px;
+    color: rebeccapurple;
+    padding: 20 0;
+}
+
+.card-nota header h3 {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+    padding: 20px 0px;
+}
+
+.card-nota p {
+    color: rgb(100, 100, 100);
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 16px
+}

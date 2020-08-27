@@ -1,0 +1,8 @@
+.Home {
+    display: grid;
+    grid-template-columns: 400px 1fr;
+}
+
+.conteudo-principal {
+    flex-grow: 3;
+}

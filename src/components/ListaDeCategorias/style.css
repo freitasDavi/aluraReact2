@@ -1,0 +1,19 @@
+.categories li {
+    display: inline;
+    margin-right: 100px;
+    background-color: #33caf0;
+    border: 1px solid #33caf0;
+    border-radius: 8px;
+    font-size: 14px ;
+    padding: 5px;
+}
+
+.categories  {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 200px;
+}
+
+.categories input {
+    margin-right: 20px;
+}
